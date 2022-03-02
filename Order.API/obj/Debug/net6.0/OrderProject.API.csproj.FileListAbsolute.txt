@@ -1,0 +1,7 @@
+C:\Projects\Order\Order.API\obj\Debug\net6.0\OrderProject.API.csproj.AssemblyReference.cache
+C:\Projects\Order\Order.API\obj\Debug\net6.0\OrderProject.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Order\Order.API\obj\Debug\net6.0\OrderProject.API.AssemblyInfoInputs.cache
+C:\Projects\Order\Order.API\obj\Debug\net6.0\OrderProject.API.AssemblyInfo.cs
+C:\Projects\Order\Order.API\obj\Debug\net6.0\OrderProject.API.csproj.CoreCompileInputs.cache
+C:\Projects\Order\Order.API\obj\Debug\net6.0\OrderProject.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Order\Order.API\obj\Debug\net6.0\OrderProject.API.MvcApplicationPartsAssemblyInfo.cache
